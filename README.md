@@ -1,5 +1,6 @@
-# PhotoinhibitionCharaterization
+# Photoinhibition Charaterization
 Photoinhibition Charaterization Paper, Li et al 2019
+DOI: https://doi.org/10.1101/642215 
 
 
 
