@@ -1,3 +1,5 @@
+### This code is associated with the paper from Li et al., "Spatiotemporal constraints on optogenetic inactivation in cortical circuits". eLife, 2019. http://dx.doi.org/10.7554/eLife.48622
+
 # Photoinhibition Charaterization
 Photoinhibition Charaterization Paper, Li et al 2019
 DOI: https://doi.org/10.1101/642215 
